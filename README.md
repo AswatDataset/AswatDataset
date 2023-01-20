@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Download
 
-#### Coming Soon!
+### Data Sample:
+You can find samples from Aswat dataset in this [link](https://drive.google.com/drive/folders/1aDLOKXwU5UjaQE3MoK4I_0RagQbQ8oFC?usp=sharing)
+### Download
+
+##### Coming Soon!
 
